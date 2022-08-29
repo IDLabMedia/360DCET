@@ -1,4 +1,4 @@
-# Unity Demo of 360DCET
+# Demo of 360DCET
 
 ![Demo GIF](https://github.com/IDLabMedia/360DCET/blob/main/docs/demo.gif)
 
