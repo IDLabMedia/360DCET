@@ -4,6 +4,14 @@ This page contains information about the Unity demo presented in the paper __"36
 
 <img src="https://github.com/IDLabMedia/360DCET/blob/main/docs/demo.gif"/> 
 
+During the demo, the viewer can switch between 3 scenarios. The goal is to compare the level of realism and immersion. Each scenario has its own strengths and weaknesses. There is audio, so be sure to turn on the VR headset speakers.
+
+Note that a correct perception of depth is defined by multiple factors. In this demo, [stereopsis](https://en.wikipedia.org/wiki/Stereopsis) and [motion parallax](https://en.wikipedia.org/wiki/Parallax) are mentioned.
+
+1. A monoscopic 360 degree video is played. There is no correct stereopsis or motion parallax.
+2. A stereoscopic 360 degree video is played. There is no correct motion parallax, but the stereopsis already improves the perception of depth significantly.
+3. A 3D triangle mesh made from the monoscopic 360 degree video (plus a depth map) is shown. There is both stereopsis and motion parallax. However, as the viewer moves around, areas that were not captured bu the 360 degree camera becomes exposed.
+
 # Download the demo
 
 The demo called "360DCET_demo.zip" (564MB) can be downloaded under [Releases](https://github.com/IDLabMedia/360DCET/releases).
