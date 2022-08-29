@@ -1,4 +1,4 @@
-# Demo of 360DCET
+# Demo of 360DIV
 
 ![Demo GIF](https://github.com/IDLabMedia/360DCET/blob/main/docs/demo.gif)
 
@@ -12,7 +12,7 @@ Note that a correct perception of depth is defined by multiple factors. In this 
 
 # Download the demo
 
-The demo called "360DCET_demo.zip" (564MB download, unzips to 8.6GB) can be downloaded under [Releases](https://github.com/IDLabMedia/360DCET/releases).
+The demo called "360DCET_demo.zip" (564MB download, unzips to 8.6GB) can be downloaded under [Releases](https://github.com/IDLabMedia/360DIV/releases).
 
 Currently, **only the SteamVR platform on Windows** is supported, so use a VR headset that works in SteamVR. The demo was tested on a Windows 10 PC with an HTC Vive Pro headset. 
 
