@@ -1,8 +1,8 @@
-# Unity Demo of 360DCET
+# [Unity Demo of 360DCET](https://idlabmedia.github.io/360DCET/)
 
 This page contains information about the Unity demo presented in the paper __"360DCET: 360&deg; Video Plus Depth for Cue-Exposure Therapy in VR"__. The paper is not published, it is currently under review.
 
-<img src="https://github.com/IDLabMedia/360DCET/blob/main/docs/demo.gif"/> 
+![Demo GIF](https://github.com/IDLabMedia/360DCET/blob/main/docs/demo.gif)
 
 During the demo, the viewer can switch between 3 scenarios. The goal is to compare the level of realism and immersion. Each scenario has its own strengths and weaknesses. There is audio, so be sure to turn on the VR headset speakers.
 
