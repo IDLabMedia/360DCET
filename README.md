@@ -19,3 +19,5 @@ Only the PC keyboard is used in the application, not the hand-held VR controller
 - Press **E** to play the 3rd scenario
 - Press **spacebar** to recenter the camera (only useful in the 3rd scenario)
 - Press **Esc** to quit the application
+
+Demo and paper by [IDLab MEDIA](https://media.idlab.ugent.be/).
